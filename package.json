@@ -1,0 +1,21 @@
+{
+  "name": "gulp-clean-sketch",
+  "version": "1.0.0",
+  "description": "Cleanup Sketch SVG files",
+  "license": "MIT",
+  "repository": "overblog/gulp-clean-sketch",
+  "author": "Overblog",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "svg",
+    "sketch"
+  ],
+  "dependencies": {
+    "clean-sketch": "^1.0.0",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.1"
+  }
+}
